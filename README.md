@@ -5,9 +5,9 @@ A GIF generator just for fun (made in PYTHON)
 ## 🖼️ Python GIF Generator
 
 This is a simple Python script designed to convert a sequence of static images into an animated **GIF** file using the **ImageIO** library.
-
----
-
+<p align="center">
+  <img src="./cat.gif" width="500"/>
+</p>
 ### Key Features
 
 * **Easy Conversion:** Combine multiple image files (like PNGs or JPEGs) into one animated GIF.
